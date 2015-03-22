@@ -1,0 +1,13 @@
+1- ¿Qué ventaja podemos encontrar usando una configuración de DMZ simple frente a una configuración sin DMZ?
+	a) La red compartida queda protegida gracias al cortafuegos.
+	b) Los servidores ya no comparten ancho de banda.
+	c) Todos los servidores quedan protegidos gracias al cortafuegos.
+	d) Proporciona mayor seguridad y evita los cuellos de botella.
+respuesta correcta: a
+
+2- En una configuración de DMZ tradicional...
+ 	a) El DMZ tiene un front-rail y un back-rail.
+	b) quedan los servidores expuestos.
+	c) tenemos cierta complejitud y dificultad de manuntención.
+	d) no hay posibles cuellos de botella.
+repuesta correcta: c
