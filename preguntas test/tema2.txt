@@ -1,0 +1,13 @@
+1- ¿Cuál de estos cambios puede ser suficiente para mejorar la escalabilidad?
+	a) Añadir máquinas a algún subsistema e incrementar la RAM.
+	b) Incrementar la RAM y CPU.
+	c) Incrementar la RAM, CPU, disco de un servidor.
+	d) Realizar una ampliación horizontal.
+Respuesta correcta: c
+
+2- Para escalar un sitio web, tenemos que configurar...
+	a) Aplicaciones y almacenamiento.
+	b) Máquinas como servidores web.
+	c) Módulos de aplicación.
+	d) a) y b) son ciertas.
+Respuesta correcta: d
