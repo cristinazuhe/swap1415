@@ -1,0 +1,55 @@
+Ejecicio T3.2:
+P- Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes. 
+Solución:
+Para Windows usamos Firewall o IPsec y para Linux usamos IPTables.
+
+
+
+Ejercicio T6.1:
+P- Aplicar con iptables una política de denegar todo el tráfico en una de las máquinas de prácticas. Comprobar el funcionamiento.
+Solución:
+Ejecutamos:
+sudo iptables -I INPUT 1 -j DROP
+sudo iptables -I OUTPUT 1 -j DROP
+
+P- Aplicar con iptables una política de permitir todo el tráfico en una de las máquinas de prácticas. Comprobar el funcionamiento.
+Solución:
+Ejecutamos:
+sudo iptables -I INPUT 1 -j ACCEPT
+sudo iptables -I OUTPUT 1 -j ACCEPT
+
+
+
+Ejercicio T7.1:
+P- ¿Qué tamaño de unidad de unidad RAID se obtendrá al configurar un RAID 0 a partir de dos discos de 100 GB y 100 GB? 
+Solución:
+Como en RAID el tamaño se suma, tendremos 100GB + 100GB= 200GB.
+
+P- ¿Qué tamaño de unidad de unidad RAID se obtendrá al configurar un RAID 0 a partir de tres discos de 200 GB cada uno?
+Solución:
+Por el mismo razonamiento que antes, tenemos 600GB.
+
+
+
+Ejercicio T7.2:
+P- ¿Qué tamaño de unidad de unidad RAID se obtendrá al configurar un RAID 1 a partir de dos discos de 100 GB y 100 GB?
+Solución:
+Con este tipo de RAID no sumamos los tamaños, de modo que tendrá un tamaño de 100GB. 
+
+P- ¿Qué tamaño de unidad de unidad RAID se obtendrá al configurar un RAID 1 a partir de tres discos de 200 GB cada uno?
+Solución:
+Por el mismo razonamiento que antes, tenemos 200GB.
+
+
+
+Ejercicio T7.3:
+P- ¿Qué tamaño de unidad de unidad RAID se obtendrá al configurar un RAID 5 a partir de tres discos de 120 GB cada uno?
+Solución:
+Como se puede ver como un RAID0 con (n-1) discos, tendremos 240GB.
+
+
+
+Ejercicio T8.1:
+Buscar información sobre tipos de conexiones de red utilizados especialmente en arquitecturas de servidores web de altas prestaciones. 
+Solución:
+InfiniBand y Mytinet, que destacan por su baja latencia. 
