@@ -1,0 +1,15 @@
+1- ¿Que RAID permite corrección de errores?
+a) RAID 0
+b) RAID 1
+c) RAID -1
+d) RAID 2
+Respuesta correcta: d
+
+
+
+2- ¿Qué RAID presenta un conjunto de discos en espejo?
+a) RAID 0
+b) RAID 1
+c) RAID -1
+d) RAID 5
+Respuesta correcta: b

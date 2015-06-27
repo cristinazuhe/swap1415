@@ -1,0 +1,21 @@
+1- Los cortafuegos permiten:
+
+a)Ocultar la verdadera dirección del servidor.
+b)Evitar posibles incendios del sistema. 
+c)Proteger los servidores de ataques.
+d)a y c son ciertas.
+
+Respuesta correcta:d
+
+2- ¿Es posible tener un sistema completamente seguro?:
+
+a) Si, estableciendo una buena política de seguridad. 
+b) No, porque no conocemos buenas políticas de seguridad. 
+c) No, porque no es posible que un sistema sea completamente seguro. 
+d) Si, porque ya existe un sistema completamente seguro. 
+
+Respuesta correcta:c
+
+
+
+

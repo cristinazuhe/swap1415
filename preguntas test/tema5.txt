@@ -1,0 +1,17 @@
+1-  ¿Cuál es la mejor herramienta para comprobar el rendimiento de un servidor?
+
+a) httperf
+b) No es posible establecer una que siempre sea mejor
+c) OpenWebLoad
+d) Apache Benchmark
+
+Respuesta correcta: b
+
+2- Comprobar el rendimiento de servidores mediante línea de comandos suelen producir:
+
+a) menor sobrecarga en el sistema
+b) mayor sobrecarga en el sistema
+c) mayor tiempo de ejecución
+d) resultados menos fiables
+
+Respuesta correcta: a

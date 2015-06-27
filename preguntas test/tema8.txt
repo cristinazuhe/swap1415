@@ -1,0 +1,15 @@
+1- Indica el protocolo que más se usa para el almacenamiento de elementos de una granja web.
+a) SAN
+b) NAS
+c) NTFS
+d) SSA y SAN
+Respuesta correcta: c
+
+2) ¿Qué herramienta no usarías para monitorizar?
+
+A) OpenWebLoad.
+B) NginX.
+C) Siege.
+D) Apache Benchmark.
+
+Respuesta correcta:b
