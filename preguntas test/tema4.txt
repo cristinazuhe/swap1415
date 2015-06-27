@@ -1,0 +1,13 @@
+1- ¿Cuál de estos algoritmos de balanceo consigue una mejor distribución del trabajo entre máquinas similares?
+	a) basado en turnos.
+	b) basado en el menor números de conexiones. 
+	c) basado en prioridad. 
+	d) basado en tiempo de respuesta.
+Respuesta correcta: b
+
+2- ¿Cuál de los siguientes es un beneficio del balanceo de carga?
+	a) fiabilidad
+	b) escalabilidad
+	c) eficiencia
+	d) b) y c) son ciertas.
+Respuesta correcta: b
